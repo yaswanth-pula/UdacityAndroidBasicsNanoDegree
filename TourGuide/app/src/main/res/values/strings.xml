@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HYDERABAD</string>
+    <string name="aboutText">Hyderabad is the capital of the Indian state of Telangana,Occupying 650 square kilometres (250 sq mi) along the banks of the Musi River, it has a population of about 6.7 million and a metropolitan population of about 7.75 million, making it the fourth most populous city and sixth most populous urban agglomeration in India. At an average altitude of 542 metres (1,778 ft), much of Hyderabad is situated on hilly terrain around artificial lakes, including Hussain Sagar—predating the city\'s founding—north of the city centre.</string>
+    <string name="eat_street">EAT STREET</string>
+    <string name="birlatemple">BIRLA MANDIR</string>
+    <string name="central">CITY CENTRAL</string>
+    <string name="gvkone">GVK ONE</string>
+    <string name="vapour">VAPOUR BREW PUB</string>
+    <string name="chutneys">CHUTNEY\\'S</string>
+    <string name="charminar">CHARMINAR</string>
+    <string name="zoo">NEHRU\'S ZOO PARK</string>
+    <string name="shilparamam">SHILPARAMAM</string>
+    <string name="wonderla">WONDERLA</string>
+    <string name="leonia">LEONIA RESORT\'S</string>
+    <string name="paradise">PARADISE BIRYANI</string>
+    <string name="rockcafe">HARD ROCK CAFE</string>
+    <string name="repete"><![CDATA[REPETE BREW & KITCHEN]]></string>
+    <string name="forum">FORUM MALL</string>
+    <string name="inorbit">INORBIT MALL</string>
+    <string name="golkonda">GOLKONDA FORT</string>
+    <string name="buddha">BUDDHA STATUE</string>
+    <string name="birlamandir">BIRLA MANDIR</string>
+    <string name="meccamasjid">MECCA MASJID</string>
+</resources>

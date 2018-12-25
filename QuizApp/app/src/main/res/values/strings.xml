@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question1">1. What is fragment in android ?</string>
+    <string name="opt11">JSON</string>
+    <string name="opt12">A Piece of Activity</string>
+    <string name="opt13">Layout</string>
+    <string name="question2">2. What is ANR in android ?</string>
+    <string name="opt21">When the Application is not Responding ANR will Occur</string>
+    <string name="opt22"> Dialog box is called as ANR</string>
+    <string name="opt23">When Android forcefully kills an application,it is called ANR</string>
+    <string name="question3">3. Which of the following are Views in Android ?</string>
+    <string name="opt31">TextView</string>
+    <string name="opt32">EditText</string>
+    <string name="opt33">Database</string>
+    <string name="opt34">Button</string>
+    <string name="question4">4. Choose Valid Statements about ViewGroups ?</string>
+    <string name="opt41">There Can Be Multiple Root Views</string>
+    <string name="opt42">There Can Be One Root View</string>
+    <string name="opt43">A ViewGroup that Contains other views is called the Parent</string>
+    <string name="opt44">A View which is inside the RootView is called Children</string>
+    <string name="question5">5. A Method Can Be Initiated By?</string>
+    <string name="answer5">object</string>
+    <string name="question6">6. Which folder of resources contains styles.xml ?</string>
+    <string name="answer6">values</string>
+    <string name="submit">SUBMIT</string>
+    <string name="reset">Reset</string>
+    <string name="answer">Answer</string>
+</resources>

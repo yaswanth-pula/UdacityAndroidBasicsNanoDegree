@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="pervious">pervious</string>
+    <string name="next">Next</string>
+    <string name="play">play</string>
+    <string name="artistname">ArtistName</string>
+    <string name="songname">Song Name</string>
+    <string name="musicimage">musicImage</string>
+    <string name="songdisplay">songDisplay</string>
+</resources>

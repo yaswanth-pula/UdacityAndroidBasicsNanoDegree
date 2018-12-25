@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyBvrit</string>
+    <string name="motive">Sky Is The Limit</string>
+    <string name="college_name">Padmasri\nDr. B. V. Raju Institute of Technology</string>
+    <string name="college_address">Vishnupur,Narsapur,Medak,\nTelangana 502313</string>
+    <string name="website">bvrit.ac.in</string>
+    <string name="hours">9 AM - 4 PM\n*Except Holidays</string>
+    <string name="phone_number">+91 8458222000</string>
+</resources>

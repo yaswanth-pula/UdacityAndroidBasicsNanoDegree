@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?><!-- ROOT LAYOUT -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <!-- child Layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fff"
+        tools:context=".MainActivity">
+        <!-- COLLEGE IMAGE VIEW -->
+        <ImageView
+            android:id="@+id/college_image"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="center"
+            android:src="@drawable/college_image" />
+        <!--  MOTIVE TEXT -->
+        <TextView
+            android:id="@+id/motive_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/college_image"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:text="@string/motive"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="italic" />
+        <!-- COLLEGE LOGO -->
+        <ImageView
+            android:id="@+id/college_logo"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/motive_text"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="16dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/college_logo" />
+
+        <!-- COLLEGE NAME -->
+        <TextView
+            android:id="@+id/college_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/motive_text"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="16dp"
+            android:layout_toRightOf="@id/college_logo"
+            android:text="@string/college_name"
+            android:textColor="#000"
+            android:textSize="20sp" />
+        <!--  ADDRESS icon -->
+        <ImageView
+            android:id="@+id/address_icon"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@id/college_logo"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="16dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/location" />
+        <!-- COLLEGE ADDRESS -->
+        <TextView
+            android:id="@+id/college_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/college_name"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="16dp"
+            android:layout_toRightOf="@+id/address_icon"
+            android:text="@string/college_address"
+            android:textColor="#000"
+            android:textSize="20sp" />
+        <!-- WEB ICON-->
+        <ImageView
+            android:id="@+id/website_icon"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/address_icon"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="16dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/web" />
+        <!-- website -->
+        <TextView
+            android:id="@+id/website"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/college_address"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="16dp"
+            android:layout_toRightOf="@+id/website_icon"
+            android:text="@string/website"
+            android:textColor="#000"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/hours_icon"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/website_icon"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="16dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/hours" />
+
+        <TextView
+            android:id="@+id/hours"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/website"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="32dp"
+            android:layout_toRightOf="@+id/hours_icon"
+            android:text="@string/hours"
+            android:textColor="#000"
+            android:textSize="20sp" />
+        <!-- phone icon -->
+        <ImageView
+            android:id="@+id/phone_icon"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/hours_icon"
+            android:layout_marginBottom="50dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="16dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/phone" />
+        <!-- phone number -->
+        <TextView
+            android:id="@+id/phone_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/hours"
+            android:layout_marginBottom="50dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="24dp"
+            android:layout_toRightOf="@+id/phone_icon"
+            android:text="@string/phone_number"
+            android:textColor="#000"
+            android:textSize="20sp" />
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="no_internet">\tNO INTERNET</string>
+    <string name="no_news">\nCurrently there are no stories for you.\nPlease come back later and try again.</string>
+</resources>

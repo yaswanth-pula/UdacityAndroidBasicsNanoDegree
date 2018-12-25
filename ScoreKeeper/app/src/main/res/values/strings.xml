@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="match_time">01 : 30</string>
+    <string name="start_btn_txt"> START</string>
+    <string name="buttonTextRes">RESUME</string>
+    <string name="buttonTextPas">PAUSE</string>
+    <string name="end_time">00 : 00</string>
+    <string name="team_A_text">TEAM A</string>
+    <string name="team_B_text">TEAM B</string>
+    <string name="starting_score">0</string>
+    <string name="goal">GOAL (+3) </string>
+    <string name="foul">FOUL (-1) </string>
+    <string name="reset">RESET</string>
+    <string name="status">Let\'s START THE MATCH </string>
+    <string name="goaltxtA"> WOW! THAT\'S  GOAL FOR TEAM A</string>
+    <string name="foultxtA">OH ! THAT\'S FOUL FOR TEAM A</string>
+    <string name="goaltxtB">WOW ! THAT\'S  GOAL FOR TEAM B</string>
+    <string name="foultxtB">OH ! THAT\'S FOUL FOR TEAM B</string>
+    <string name="equal_score">BOTH TEAM\'S ARE TRYING HARD FOR A LEAD</string>
+    <string name="teamA_lead">TEAM A IS LEADING</string>
+    <string name="teamB_lead">TEAM B IS LEADING</string>
+    <string name="tied">THE GAME HAS BEEN TIED</string>
+    <string name="teamA_win">TEAM A HAS WON THE MATCH</string>
+    <string name="teamB_win">TEAM B HAS WON THE MATCH</string>
+</resources>

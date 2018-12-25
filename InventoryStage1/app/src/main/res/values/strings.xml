@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InventoryStage1</string>
+    <string name="product_name">PRODUCT NAME</string>
+    <string name="product_name_hint">name of the product</string>
+    <string name="product_price">PRODUCT PRICE</string>
+    <string name="product_price_hint">price of the product</string>
+    <string name="supplier_name">SUPPLIER NAME</string>
+    <string name="supplier_name_hint">supplier name</string>
+    <string name="supplier_number">SUPPLIER MOBILE NO.</string>
+    <string name="supplier_number_hint"> mobile no.</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="quantity_hint">quantity of product</string>
+    <string name="action_save">SAVE</string>
+    <string name="editActivityLabel">Add A Product</string>
+    <string name="mainActivityLabel">Store</string>
+</resources>
